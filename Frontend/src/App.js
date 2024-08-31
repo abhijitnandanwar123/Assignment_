@@ -1,5 +1,6 @@
 import './App.css';
-// import 'bootstrap/dist/css/bootstrap.min.css'; // Import Bootstrap CSS
+import 'bootstrap/dist/css/bootstrap.min.css'; // Import Bootstrap CSS
+// 
 
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import WelcomeScreen from './Components/WelcomeScreen/WelcomeScreen';
